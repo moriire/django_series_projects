@@ -1,0 +1,1 @@
+# django_series_projects
